@@ -1,1 +1,349 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Bc7/2404-2051.png"group-title="BANGLADASHI CHANNEL", BTV HD
+http://xtv.ooo:8080/Sehrish/12345/245930
+
+#EXTINF:-2 tvg-logo="https://i.ibco/6vFt/202404-2304.png"group-title="BANGLADASHI CHANNEL", BTV WORLD
+http://xtv.ooo:8080/Sehrish/12345/245922
+
+#EXTINF:-3 tvg-logo="https:i.ibb.co/tPf7/202405-0817.png"group-title="BANGLADASHI CHANNEL", SANGSAD TV
+http://xtv.ooo:8080/Sehrish/12345/245893
+
+#EXTINF:-4 tvg-logo="https://i.ibb.co/JdBx/202400-2224.png"group-title="BANGLADASHI CHANNEL", ATN BANGLA
+http://xtv.ooo:8080/Sehrish/12345/245909
+
+#EXTINF:-5 tvg-logo="https://i.ibb.czQz/202430-2243.png"group-title="BANGLADASHI CHANNEL", CHANNEL I
+https://sonyliv.arcreation.xyz/live-tv/base.php?id=11910
+
+#EXTINF:-6 tvg-logo="https://i.ibb.cr6g/2024-2141.png"group-title="BANGLADASHI CHANNEL", CHANNEL I HD
+http://xtv.ooo:8080/Sehrish/12345/245913
+
+#EXTINF:-7 tvg-logo="https://i.ibb.co/Z6/2024-2036.png"group-title="BANGLADASHI CHANNEL", EKUSHEY TV
+http://xtv.ooo:8080/Sehrish/12345/245937
+
+#EXTINF:-8 tvg-logo="https://i.ibbo/12C/2024-2256.png"group-title="BANGLADASHI CHANNEL", NTV
+https://sonyliv.arcreation.xyz/live-tv/base.php?id=11856
+
+#EXTINF:-9 tvg-logo="https://i.ibb.co/0s/202404-2302.png"group-title="BANGLADASHI CHANNEL", RTV HD
+http://xtv.ooo:8080/Sehrish/12345/245911
+
+#EXTINF:-10 tvg-logo="https://i.ibb.co/1z/202404-2254.png"group-title="BANGLADASHI CHANNEL", BOISHAKHI TV HD
+http://xtv.ooo:8080/Sehrish/12345/245923
+
+#EXTINF:-11 tvg-logo="https://i.ibb.co/Z2/202404-2045.png"group-title="BANGLADASHI CHANNEL", BANGLA VISHON HD
+http://xtv.ooo:8080/Sehrish/12345/245957
+
+#EXTINF:-12 tvg-logo="https://i.ibb.co/pW/202404-2208.png"group-title="BANGLADASHI CHANNEL", DESH TV
+https://sonyliv.arcreation.xyz/live-tv/base.php?id=11904
+
+#EXTINF:-13 tvg-logo="https://i.ibb.co/ctx02404-2306.png"group-title="BANGLADASHI CHANNEL", MY TV
+http://xtv.ooo:8080/Sehrish/12345/245964
+
+#EXTINF:-14 tvg-logo="https://i.ibb.co/HPz6202404-2251.png"group-title="BANGLADASHI CHANNEL", MY TV HD
+https://myflixbd.com/0.m3u8
+
+#EXTINF:-15 tvg-logo="https://i.ibb.co/ZZL/202405-0803.png"group-title="BANGLADASHI CHANNEL", MOHONA TV 
+http://xtv.ooo:8080/Sehrish/12345/245920
+
+#EXTINF:-16 tvg-logo="https/i.ibb.co/XtRy/202404-2052.png"group-title="BANGLADASHI CHANNEL", BIJOY TV
+http://xtv.ooo:8080/Sehrish/12345/245946
+
+#EXTINF:-17 tvg-logo="https://ibb.co/HrGX/202401-2155.png"group-title="BANGLADASHI CHANNEL", THE CHANNEL TV
+https://livess.ncare.live/live-orgin/thechanneltv.stream/chunks.m3u8
+
+#EXTINF:-18 tvg-logo="https://ibb.co/f4vV/202402-0818.png"group-title="BANGLADASHI CHANNEL", SOMOY TV
+https://livess.ncare.live/live-orgin/somoyt000011226615544544.stream/chunks.m3u8
+
+#EXTINF:-19 tvg-logo="https://ibb.co/c6QQ/202430-2302.png"group-title="BANGLADASHI CHANNEL", INDEPENDET NEWS
+http://xtv.ooo:8080/Sehrish/12345/245916
+
+#EXTINF:-20 tvg-logo="https://i.b.co/hW2B/202430-2242.png"group-title="BANGLADASHI CHANNEL", MAASRANGA HD
+https://sonyliv.arcreation.xyz/live-tv/base.php?id=19827
+
+#EXTINF:-21 tvg-logo="https://ibb.co/8BJB/202430-2046.png"group-title="BANGLADASHI CHANNEL", CHANNEL 9 HD
+https://sonyliv.arcreation.xyz/live-tv/base.php?id=11940
+
+#EXTINF:-22 tvg-logo="https://ibb.co/vwDm/2024030-2242.png"group-title="BANGLADASHI CHANNEL", CHANNEL 24 HD
+https://sonyliv.arcreation.xyz/live-tv/base.php?id=11913
+
+#EXTINF:-23 tvg-logo="https://i.b.co/CVxh/202401-1237.png"group-title="BANGLADASHI CHANNEL", GAZI TV HD
+http://xtv.ooo:8080/Sehrish/12345/245901
+
+#EXTINF:-24 tvg-logo="https://i.ibb./Mfpd/202402-0819.png"group-title="BANGLADASHI CHANNEL", EKATTOR TV HD
+https://sonyliv.arcreation.xyz/live-tv/base.php?id=11901
+
+#EXTINF:-25 tvg-logo="https://i.ibb.co/By/202400-2142.png"group-title="BANGLADASHI CHANNEL", ASIAN TV
+http://xtv.ooo:8080/Sehrish/12345/245908
+
+#EXTINF:-26 tvg-logo="https://i.ibb.co/93pb/202430-2240.png"group-title="BANGLADASHI CHANNEL", GAAN BANGLA HD
+https://sonyliv.arcreation.xyz/live-tv/base.php?id=11895
+
+#EXTINF:-27 tvg-logo="https://i.ibb.co/J5gD/202430-2238.png"group-title="BANGLADASHI CHANNEL", JAMUNA TV
+https://sonyliv.arcreation.xyz/live-tv/base.php?id=11868
+
+#EXTINF:-28 tvg-logo="https://i.ibb.co/dmN0/202402-0823.png"group-title="BANGLADASHI CHANNEL", DEEPTO TV HD
+https://sonyliv.arcreation.xyz/live-tv/base.php?id=11907
+
+#EXTINF:-29 tvg-logo="https://i.ibb.co/7GV/202430-2048.png"group-title="BANGLADASHI CHANNEL", DBC NEWS HD
+http://xtv.ooo:8080/Sehrish/12345/245914
+
+#EXTINF:-30 tvg-logo="https://i.ibb.co/xfL3/202402-0802.png"group-title="BANGLADASHI CHANNEL", NEWS 24 HD
+http://cdn01.palki.tv/live/News24-M/index.m3u8
+
+#EXTINF:-31 tvg-logo="https://i.ibb.co/mN7/202402-0804.png"group-title="BANGLADASHI CHANNEL", BANGLA TV
+http://xtv.ooo:8080/Sehrish/12345/245910
+
+#EXTINF:-32 tvg-logo="https://i.ibb.co/MR7/202402-0818.png"group-title="BANGLADASHI CHANNEL", NAGORIK TV
+https://sonyliv.arcreation.xyz/live-tv/base.php?id=19811
+
+#EXTINF:-33 tvg-logo="https://i.ibb.co/5Rc/202430-2259.png"group-title="BANGLADASHI CHANNEL", ANANDA TV
+https://sonyliv.arcreation.xyz/live-tv/base.php?id=11928
+
+#EXTINF:-34 tvg-logo="https://i.ibb.co/6mR/202430-2236.png"group-title="BANGLADASHI CHANNEL", BONGO MOVE
+http://xtv.ooo:8080/Sehrish/12345/245
+
+#EXTINF:-35 tvg-logo="https://i.ibb.co/KN6/202430-2234.png"group-title="BANGLADASHI CHANNEL", MOVE BANGLA
+https://livess.ncare.live/live-orgin/moviebanglalink2.stream/chunks.m3u8
+
+#EXTINF:-36 tvg-logo="https://i.ibb.co/PFBW/202430-2233.png"group-title="BANGLADASHI CHANNEL", NEXUS TV
+https://livess.ncare.live/live-orgin/nexustv.stream/chunks.m3u8
+
+#EXTINF:-37 tvg-logo="https://i.ibb.co/TWkf/202430-2232.png"group-title="BANGLADASHI CHANNEL", EKHONE TV
+ydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/globaltv.stream/mono.m3u8
+
+#EXTINF:-38 tvg-logo="https://i.ibb.co/TMPn/202430-2036.png"group-title="BANGLADASHI CHANNEL", GLOBAL TV HD
+https://sonyliv.arcreation.xyz/live-tv/base.php?id=19803
+
+#EXTINF:-39 tvg-logo="https://i.ibb.co/PxMN/202430-2231.png"group-title="INDIAN BANGLA CHANNEL", KHUSHBOO BANGLA
+http://idvd.multitvsolution.com/idvo/khushboo.m3u8
+
+#EXTINF:-40 tvg-logo="https://i.ibb.co/Z166/202401-0335.png"group-title="INDIAN BANGLA CHANNEL", STAR JALSA
+https://sonyliv.arcreation.xyz/live-tv/base.php?id=11952
+
+#EXTINF:-41 tvg-logo="https://i.ibb.co/Vj0Z/202402-0828.png"group-title="INDIAN BANGLA CHANNEL", STAR JALSA HD
+http://xtv.ooo:8080/Sehrish/12345/245898
+
+#EXTINF:-42 tvg-logo="https://i.ibb.co/FBcL/202430-2246.png"group-title="INDIAN BANGLA CHANNEL", ZEE BANGLA
+https://bdixtv247.techpriyo.com/api/jadootv/jado.php?id=zee_bangla
+
+#EXTINF:-43 tvg-logo="https://i.ibb.co/CJWb/202430-2246.png"group-title="INDIAN BANGLA CHANNEL", ZEE BANGLA HD
+http://xtv.ooo:8080/Sehrish/12345/245893
+
+#EXTINF:-44 tvg-logo="https://i.ibb.co/Sd10/202430-2257.png"group-title="INDIAN BANGLA CHANNEL", COLORS BANGLA
+https://sonyliv.arcreation.xyz/live-tv/base.php?id=11946
+
+#EXTINF:-45 tvg-logo="https://i.ibb.co/PgPm/202430-2258.png"group-title="INDIAN BANGLA CHANNEL", COLORS BANGLA HD
+http://mominvaithanks.xyz/mominRocks/vip.php?id=10933
+
+#EXTINF:-46 tvg-logo="https://i.ibb.co/VxM2/202430-2245.png"group-title="INDIAN BANGLA CHANNEL", COLORS BANGLA CINEMA
+http://xtv.ooo:8080/Sehrish/12345/245895
+
+#EXTINF:-47 tvg-logo="https://i.ibb.co/bsr2/202430-2038.png"group-title="INDIAN BANGLA CHANNEL", SONY AATH
+
+
+#EXTINF:-48 tvg-logo="https://i.ibb.co/TYNc/202402-0750.png"group-title="INDIAN BANGLA CHANNEL", JALSA MOVIS
+http://xtv.ooo:8080/Sehrish/12345/245900
+
+#EXTINF:-49 tvg-logo="https://i.ibb.co/b67H/202430-2037.png"group-title="INDIAN BANGLA CHANNEL", JALSA MOVIS HD
+http://xtv.ooo:8080/Sehrish/12345/245900
+
+#EXTINF:-50 tvg-logo="https://i.ibb.co/bXGzq/202430-2252.png"group-title="INDIAN BANGLA CHANNEL", ZEE BANGLA CINEMA
+http://xtv.ooo:8080/Sehrish/12345/245897
+
+#EXTINF:-51 tvg-logo="https://i.ibb.co/H7XLf/202430-2300.png"group-title="INDIAN BANGLA CHANNEL", ENTEER TEN BANGLA
+https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3u8
+
+#EXTINF:-52 tvg-logo="https://i.ibb.co/hyXg/202430-2231.png"group-title="INDIAN BANGLA CHANNEL", SUN BANGLA
+http://xtv.ooo:8080/Sehrish/12345/245906
+
+#EXTINF:-53 tvg-logo="https://i.ibb.co/3v0d/202430-2230.png"group-title="INDIAN BANGLA CHANNEL", AAKASH AATH
+http://xtv.ooo:8080/Sehrish/12345/245928
+
+#EXTINF:-54 tvg-logo="https://i.ibb.co/PMms/202430-2234.png"group-title="INDIAN BANGLA CHANNEL", SANAND TV
+http://cdn01.palki.tv/live/AnandaTV-M/index.m3u8
+
+#EXTINF:-55 tvg-logo="https://i.ibb.co/SKrt/202430-2235.png"group-title="INDIAN BANGLA CHANNEL", GOLDMINES BANGLA
+http://xtv.ooo:8080/Sehrish/12345/24
+
+#EXTINF:-56 tvg-logo="https://i.ibb.co/Fbt7/202402-0834.png"group-title="KIDS CHANNEL", DURONTO TV
+http://cdn01.palki.tv/live/Duronto-M/index.m3u8
+
+#EXTINF:-57 tvg-logo="https://i.ibb.co/Z6f6/202430-2050.png"group-title="KIDS CHANNEL", NICKELODEON 
+https://bdtubelive.xyz/yupptv-hd.m3u8?id=wow-kidz-hindi
+
+#EXTINF:-58 tvg-logo="https://i.ibb.co/wzRz/202402-0833.png"group-title="KIDS CHANNEL", SONIC
+http://portal.code-crafters.app/app/play.m3u8?id=1656
+
+#EXTINF:-59 tvg-logo="https://i.ibb.co/RbNM/202430-2043.png"group-title="KIDS CHANNEL", SONY YAY
+http://portal.code-crafters.app/app/play.m3u8?id=1656
+
+#EXTINF:-60 tvg-logo="https://i.ibb.co/6JNL/202430-2054.png"group-title="KIDS CHANNEL", CARTOON NETWORK HD
+https://amg01448-samsungin-cartoonnw-samsungin-1y8kz.amagi.tv/playlist/amg01448-samsungin-cartoonnw-samsungin/cb553d1e786c648b93d43d63d5ef41a4d3246ad3032e90703dff06c231901d468ca2f9d3f537b63619d714af3f5e2f0e0433db18dd6511b6802eea0e6d287f09cfcceb2ada861317b3c60e383ebb281700ab0941d8380220dcec5759d438b0340446b00a230f338fbe51aa7e55978808821d57b189e5a4fd04706ded294fdfd20ffda8bd0c118d2ff9932372a75e26c7199604e6368ff19702cf69b66cc1168caa08baf212e7868bfa2a50c24d1bb2ccf90b774fb3833797c9936876b879294d1f6fb8c9cbfc4a7292524159fafadfbe37b04a80d165c94c3eb5158014a53e8e79a500a3a11ff3e4fbfe4c452babcd5f590aa5e1a98ba87a62f337b5f39bbd091c93944c2a5fa8718f3a353705d56f1c4b0b9a90d86276/82/640x360_1284800/index.m3u8
+
+#EXTINF:-61 tvg-logo="https://i.ibb.co/wWS3/202430-2007.png"group-title="KIDS CHANNEL", JUGNU KIDS BANGLA
+http://xtv.ooo:8080/Sehrish/12345/24
+
+#EXTINF:-62 tvg-logo="https://i.ibb.co/pb9T/202430-2009.jpg"group-title="KIDS CHANNEL", TALKING TOM
+http://xtv.ooo:8080/Sehrish/12345/24
+
+#EXTINF:-63 tvg-logo="https://i.ibb.co/Wcsz/202430-2239.png"group-title="KIDS CHANNEL", CHU CHU TV
+http://xtv.ooo:8080/Sehrish/12345/2
+
+#EXTINF:-64 tvg-logo="https://i.ibb.co/zmGD/202402-0753.png"group-title="KIDS CHANNEL", KIDS CARTOON 
+https://shls-mbc3-eur-prod-dub.shahid.net/out/v1/fce09dd6a967431a871efb3b8dec9f82/index_3.m3u8
+
+#EXTINF:-65 tvg-logo="https://i.ibb.co/L0BX/202402-0830.png"group-title="KIDS CHANNEL", POGO
+https://amg01448-samsungin-pogo-samsungin-dzccl.amagi.tv/playlist/amg01448-samsungin-pogo-samsungin/cb543d1e786c648e93d43660cef342a6f9481fde1d6988693eb5518975d10725dce2b48be65b9e3608dd4087351a6c535677ab66ad0311badc6ac8136b650705dad8ee2ebecc4072eb9c102f29b4641d57ee166ea8412e5e95a916018e38f55e0010e30627161185af06f0234dc4820a957f378dadd468277c5e5a8f2002b7f902f6ef820c13892ef8ae194b923146e19056cdd74ae986dd0ec85ed723a4468093f1de860d8b86c231b401b4660d0d7b2bcf867fca9c07f6b0f4683d8f3f29560e6ae2ac9eff4732f4292930e3defb8f5adb3ce3a80caf7d6dc76af44e8023c46aba1998ef4fada8c9b3282b2285f46b5e0981c88597a14559d467ffb1a7de7c6c89f7661b2da83c8251415f91f9d85a80ca11e4de49e3af592e11e48c1fe3f7d582eba3c34e9231b8aa9ef326766f512327b27292ae70e907b70cc05b8708262f6689d83fe687d7593c634b839356a67c71dbfab8f3148aa6a81a7f7bfb69d8216526ac662d144d4c88c8093cc3efd9d21544e9b2db04d00b8e0cbfcdfaf60f3afafacf43f46ed56d6bb8e82fa67735550eb2bd7911150c35fce7681828228364ead7d8ee7e0d40bda596bef07c1b28793a004cbbf0e839dbafd0391113f656244b7d0458c35781278c56094805e12afe804534890f2a28a6803a5e5163df88928995d9c741fa2e819fb369616d093ae47d54723b939b825bf4344e3e495c860e764af2520915a4c69f97f4ea09ef9260b837b4e38155b039a9f65de2c84ab14b894c755b688bd3d66aa7c855052f2fdd36ef1e184877f079fa4521305c68b3fa4846ab4c4b18cda62006f871f847ab262/18/1280x720_3000800/index.m3u8
+
+#EXTINF:-66 tvg-logo="https://i.ibb.co/2sY8/202430-2244.png"group-title="KIDS CHANNEL", DISCOVERY KIDS
+https://dplus.gammacdn.workers.dev/videos/113.m3u8
+
+#EXTINF:-67 tvg-logo="https://i.ibb.co/6Bjz/202402-0827.png"group-title="MUSIC CHANNEL", SANGEET BANGLA
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Sangeetbangla/default/sangeetbangla.m3u8
+
+#EXTINF:-68 tvg-logo="https://i.ibb.co/P9bn/202401-2156.png"group-title="MUSIC CHANNEL", MUSIC INDIA 
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Musicindia/default/index.m3u8
+
+#EXTINF:-69 tvg-logo="https://i.ibb.co/Xs1n/202402-0800.png"group-title="MUSIC CHANNEL", 9X TASHAN
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/9Xtashan/default/9Xtashan.m3u8
+
+#EXTINF:-70 tvg-logo="https://i.ibb.co/R4qb/202430-2215.png"group-title="MUSIC CHANNEL", 9XM
+https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/index.m3u8
+
+#EXTINF:-71 tvg-logo="https://i.ibb.co/sbdN/202430-2214.png"group-title="MUSIC CHANNEL", BALLE BALLE
+http://xtv.ooo:8080/Sehrish/12345/245893
+
+#EXTINF:-72 tvg-logo="https://i.ibb.co/4WdZ/202402-0759.png"group-title="MUSIC CHANNEL", 9X JHAKAAS
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/9Xjhakaas/default/9Xjhakaas.m3u8
+
+#EXTINF:-73 tvg-logo="https://i.ibb.co/n0Sp/202401-2151.png"group-title="MUSIC CHANNEL", M TV
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Mtvbeats/default/mtvbeats.m3u8
+
+#EXTINF:-74 tvg-logo="https://i.ibb.co/CJyd/202401-2156.png"group-title="MUSIC CHANNEL", AB MASTI III
+https://cdn-singapore-5160-prod.tsv2.amagi.tv/linear/amg01448-samsungin-mastiiin-samsungin/playlist.m3u8
+
+#EXTINF:-75 tvg-logo="https://i.ibb.co/6Bh0/202401-2152.png"group-title="MUSIC CHANNEL", ZING
+http://xtv.ooo:8080/Sehrish/12345/245893
+
+#EXTINF:-76 tvg-logo="https://i.ibb.co/5Mxx/202402-0753.png"group-title="MUSIC CHANNEL", ZOOM
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zoom/default/zoom.m3u8
+
+#EXTINF:-77 tvg-logo="https://i.ibb.co/V27X/202430-2216.png"group-title="INFOTAINMENT CHANNEL", ANIMAL PLANET
+https://food-dlvr-ott.akamaized.net:443/primary/3/def27b3dd6854290bc7f42daa93c65ea/index_15.m3u8
+
+#EXTINF:-78 tvg-logo="https://i.ibb.co/W3hP/202430-2225.png"group-title="INFOTAINMENT CHANNEL", NASA TV
+https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
+
+#EXTINF:-79 tvg-logo="https://i.ibb.co/Lh3g/202430-2224.png"group-title="INFOTAINMENT CHANNEL", LOVE NATURE 4K
+https://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8
+
+#EXTINF:-80 tvg-logo="https://i.ibb.co/7yM0/202401-2324.png"group-title="INFOTAINMENT CHANNEL", DISCOVERY BANGLA
+https://varun-iptv.netlify.app/m3u/discoverybengali.m3u8
+
+#EXTINF:-81 tvg-logo="https://i.ibb.co/PQ81/202430-2222.png"group-title="INFOTAINMENT CHANNEL", DISCOVERY HD
+https://food-dlvr-ott.akamaized.net/primary/4/2cffc9dc1c024fbca4f76a434451f7c5/index_11.m3u8
+
+#EXTINF:-82 tvg-logo="https://i.ibb.co/p2yk/202430-2217.png"group-title="INFOTAINMENT CHANNEL", NATIONAL GEO GRAPHIC
+http://xtv.ooo:8080/Sehrish/12345/245893
+
+#EXTINF:-83 tvg-logo="https://i.ibb.co/HpJ9/202402-0754.png"group-title="INFOTAINMENT CHANNEL", NAT GEO WILD
+http://xtv.ooo:8080/Sehrish/12345/245893
+
+#EXTINF:-84 tvg-logo="https://i.ibb.co/Jqrs3/202402-0751.png"group-title="INFOTAINMENT CHANNEL", DISCOVERY SCIENCE 
+https://food-dlvr-ott.akamaized.net/primary/3/7bc4c0346616426e806fa3b79ca70ca6/index_12.m3u8
+
+#EXTINF:-85 tvg-logo="https://i.ibb.co/M1S/202402-0840.png"group-title="INFOTAINMENT CHANNEL", SONY BBC EARTH
+http://xtv.ooo:8080/Sehrish/12345/245893
+
+#EXTINF:-86 tvg-logo="https://i.ibb.co/F5hY/202401-2128.png"group-title="INFOTAINMENT CHANNEL", WEATHER SPY
+https://jukin-weatherspy-2-in.samsung.wurl.tv/playlist.m3u8
+
+#EXTINF:-87 tvg-logo="https://i.ibb.co/zQgk/202401-2125.png"group-title="INFOTAINMENT CHANNEL", SAFARI TV
+https://j78dp346yq5r-hls-live.5centscdn.com/safari/live.stream/playlist.m3u8
+
+#EXTINF:-88 tvg-logo="https://i.ibb.co/RYJ7/202401-2154.png"group-title="INFOTAINMENT CHANNEL", WILD EARTH HD
+http://xtv.ooo:8080/Sehrish/12345/245893
+
+#EXTINF:-89 tvg-logo="https://i.ibb.co/vkgB/202400-2210.png"group-title="SPORTS CHANNEL", T SPORTS 
+https://ythls.armelin.one/channel/UC2t9imwIR7xlDfma3CmRKJQ.m3u8
+
+#EXTINF:-90 tvg-logo="https://i.ibb.co/84P/202430-2213.png"group-title="SPORTS CHANNEL", T SPORTS HD
+http://103.151.60.214:7444/1102/video.m3u8
+
+#EXTINF:-91 tvg-logo="https://i.ibb.co/84P/202430-2213.png"group-title="SPORTS CHANNEL", T SPORTS HD
+https://live-cdn.tsports.com/live-02/index.m3u8
+
+#EXTINF:-92 tvg-logo="https://i.ibb.co/GT7K/202401-2145.png"group-title="SPORTS CHANNEL", GAZI SPORTS
+http://103.151.60.214:7444/1102/video.m3u8
+
+#EXTINF:-93 tvg-logo="https://i.ibb.co/XYsN/202402-0756.png"group-title="SPORTS CHANNEL", STAR SPORTS 1
+http://popeye-ott.net:80/play/live.php?mac=00:1A:79:02:8C:14&stream=155966&extension=ts
+
+#EXTINF:-94 tvg-logo="https://i.ibb.co/L6n5/202402-0757.png"group-title="SPORTS CHANNEL", STAR SPORTS 2
+http://popeye-ott.net:80/play/live.php?mac=00:1A:79:02:8C:14&stream=282674&extension=ts
+
+#EXTINF:-95 tvg-logo="https://i.ibb.co/3YGh/202402-0757.png"group-title="SPORTS CHANNEL", STAR SPORTS 3
+http://xtv.ooo:8080/Sehrish/12345/245893
+
+#EXTINF:-96 tvg-logo="https://i.ibb.co/Cm2L/202430-2040.png"group-title="SPORTS CHANNEL", SONY SPORTS 1
+http://popeye-ott.net:80/play/live.php?mac=00:1A:79:02:8C:14&stream=156017&extension=ts
+
+#EXTINF:-97 tvg-logo="https://i.ibb.co/pzC7/202430-2041.png"group-title="SPORTS CHANNEL", SONY SPORTS 2
+http://popeye-ott.net:80/play/live.php?mac=00:1A:79:02:8C:14&stream=156010&extension=ts
+
+#EXTINF:-96 tvg-logo="https://i.ibb.co/fx/202430-2042.png"group-title="SPORTS CHANNEL", SONY SPORTS 3
+http://popeye-ott.net:80/play/live.php?mac=00:1A:79:02:8C:14&stream=156024&extension=ts
+
+#EXTINF:-97 tvg-logo="https://i.ibb.co//202430-2219.png"group-title="SPORTS CHANNEL", RED BULL TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
+
+#EXTINF:-98 tvg-logo="https://i.ibb.co/r3n/202430-2223.png"group-title="SPORTS CHANNEL", FIFA+
+https://i.mjh.nz/SamsungTVPlus/GBBD1100008YW.m3u8
+
+#EXTINF:-98 tvg-logo="https://i.ibb.co/r3n/202430-2223.png"group-title="SPORTS CHANNEL", FIFA+ 1
+https://i.mjh.nz/SamsungTVPlus/ESBC2700009B4.m3u8
+
+#EXTINF:-100 tvg-logo="https://i.ibb.co/bH9/202401-2121.png"group-title="SPORTS CHANNEL", CHAMPIONS LEAGUE
+http://xtv.ooo:8080/Sehrish/12345/245893
+
+#EXTINF:-101 tvg-logo="https://i.ibb.co/202401-2118.png"group-title="SPORTS CHANNEL", IPL
+http://mega4k.one:8080/live/biharilal/7647854/119732.m3u8
+
+#EXTINF:-102 tvg-logo="https://i.ibb.co/SK1r/202401-2129.png"group-title="SPORTS CHANNEL", BPL
+http://xtv.ooo:8080/Sehrish/12345/245893
+
+#EXTINF:-103 tvg-logo="https://i.ibb.co/jJ3/202401-2129.png"group-title="SPORTS CHANNEL", PREMIER LEAGUE
+https://hls.sweet.tv/stream/qfq2fp954aui9guc8e4d5526tu8uudcnyj342af9kxq8sry8g7n44bwe5rw4k6q68mxhy99h7z5abid8gkju2pcund6c4x89hq96789999.m3u8
+
+#EXTINF:-104 tvg-logo="https://i.ibb.co/hmb/202401-2134.png"group-title="SPORTS CHANNEL", CRICKET WORLD CUP
+http://xtv.ooo:8080/Sehrish/12345/245893
+
+#EXTINF:-106 tvg-logo="https://i.ibb.co/6sm/202401-2152.png"group-title="SPORTS CHANNEL", PTV SPORTS
+http://xtv.ooo:8080/Sehrish/12345/245893
+
+#EXTINF:-107 tvg-logo="https://i.ibb.co/mT9/202401-2153.png"group-title="SPORTS CHANNEL", WILLOW HD
+http://xtv.ooo:8080/Sehrish/12345/245893
+
+#EXTINF:-108 tvg-logo="https://i.ibb.co/bdSQ/202401-2120.png"group-title="SPORTS CHANNEL", DUBAI SPORTS 
+http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8
+
+#EXTINF:-109 tvg-logo="https://i.ibb.co/gz4f/202401-2135.png"group-title="SPORTS CHANNEL", DUBAI SPORTS 1
+http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/index.m3u8
+
+#EXTINF:-110 tvg-logo="https://i.ibb.co/2jS3/202401-2157.png"group-title="ISLAMIC CHANNEL", MADINA TV
+http://xtv.ooo:8080/Sehrish/12345/245893
+
+#EXTINF:-111 tvg-logo="https://i.ibb.co/qgyX/202402-0843.png"group-title="ISLAMIC CHANNEL", ATN ISLAMIC 
+http://xtv.ooo:8080/Sehrish/12345/245893
+
+#EXTINF:-112 tvg-logo="https://i.ibb.co/rGhS/202401-2125.png"group-title="ISLAMIC CHANNEL", AL SUNNHA
+http://xtv.ooo:8080/Sehrish/12345/245893
+
+#EXTINF:-113 tvg-logo="https://i.ibb.co/r6wm/202401-2148.png"group-title="ISLAMIC CHANNEL", AL QURAN REDIO 
+http://xtv.ooo:8080/Sehrish/12345/245893
+
+
+ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤসতর্কীকরণ নোটিশ
+
+ এই প্লেলিস্ট লোগো, চ্যানেলে লিংক, এবং অন্য কিছু কপি করে নিজের প্লেলিস্ট ব্যাবহার করলে তাকে আইনের আওতায় আনা হবে। 
 
